@@ -1,0 +1,20 @@
+{
+  "users": [],
+  "categories": [],
+  "campaigns": [
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_desc": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "10",
+      "amount": "20",
+      "prefilled": "1.2",
+      "video": "https://www.youtube.com/watch?v=_jntX2WwOT8",
+      "category": "architecture",
+      "country": "Vietnam",
+      "content": "<p>Capture everything in 4k, with extended battery life and pro-g inspired features. Choose from three 4k recording modes: UHD, HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p>",
+      "startDate": "2023-03-22T08:39:48.527Z",
+      "endDate": "2023-03-25T17:00:00.000Z",
+      "id": 1
+    }
+  ]
+}
